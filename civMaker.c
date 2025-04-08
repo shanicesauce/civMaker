@@ -143,9 +143,10 @@ switch(choice){
     
     case 5: //end game
         if(food >= villages){
-            printf("Your Civilization Survived ｡◕ ‿ ◕｡! Your Majesty the Great!\n");
+            printf("\nYour Civilization Survived with %d Village(s) and %d Food(s) to spare!\n", villages,food);
+            printf("\nYour Majesty the Great ｡◕ ‿ ◕｡!\n");
         } else {
-            printf("Your Civilization Starved o(╥﹏╥)o! Do better next time\n");
+            printf("\nYour Civilization Starved o(╥﹏╥)o! Do better next time\n");
         }
         exit(0);
 default :
