@@ -1,4 +1,4 @@
-# civMaker
+# Civilization Maker
 <h4> Small text-based program for building stable civilizations. As you place down buildings, the game will track your food surplus / deficit. This game is played on a 9x9 board, printed like so to the user </h4>
 
 
