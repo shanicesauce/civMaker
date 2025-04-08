@@ -5,6 +5,6 @@
 The player can place down 3 different buildings. Each building must be adjacent (up down left right) to an existing building. 
 <ul> 
  <li> Road (+) - does nothing, used for expansion</li>
- <il> Village (V) - subtracts 1 food </li>
- <il> Farm (F) - subtracts 1 food, awards 1 food for each adjacent fertile tile </li>
+ <il> Village (V) - subtracts 1 food</li>
+ <il> Farm (F) - subtracts 1 food, awards 1 food for each adjacent fertile tile</li>
 </ul>
